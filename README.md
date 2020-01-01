@@ -1,1 +1,1 @@
-# Robot-Inverse-kinematics
+# Robot-Inverse-kinematics# Jacobi & Analytical ikine
